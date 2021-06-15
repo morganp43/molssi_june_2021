@@ -5,6 +5,10 @@ Created on Fri Jun 11 11:00:06 2021
 @author: Morgan
 """
 
+"""
+This was the homework from Session 3.
+"""
+
 import argparse,os
 
 if __name__ == "__main__":  
